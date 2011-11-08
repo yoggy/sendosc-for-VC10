@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sendosc", "sendosc\sendosc.vcxproj", "{6B435F06-5168-4073-82C0-D365D967BAA5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "sendosc-installer", "sendosc-installer\sendosc-installer.vdproj", "{65F7E280-E5C6-415D-9C26-3B1CF31383F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B435F06-5168-4073-82C0-D365D967BAA5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B435F06-5168-4073-82C0-D365D967BAA5}.Debug|Win32.Build.0 = Debug|Win32
+		{6B435F06-5168-4073-82C0-D365D967BAA5}.Release|Win32.ActiveCfg = Release|Win32
+		{6B435F06-5168-4073-82C0-D365D967BAA5}.Release|Win32.Build.0 = Release|Win32
+		{65F7E280-E5C6-415D-9C26-3B1CF31383F8}.Debug|Win32.ActiveCfg = Debug
+		{65F7E280-E5C6-415D-9C26-3B1CF31383F8}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
